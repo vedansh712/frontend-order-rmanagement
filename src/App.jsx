@@ -5,7 +5,7 @@ import SignIn from "./components/registration/SignIn";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/home/Home";
-import NotFound from "./pages/404/notFound";
+import NotFound from "./pages/404/NotFound";
 import DashBoard from "./pages/dashBoard/DashBoard";
 import AddOrder from "./pages/addOrder/AddOrder";
 
